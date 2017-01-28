@@ -1,5 +1,7 @@
 # ember-sample-project
 
+Ember 2.11.0 project with ESLint (vs. JSHint), Mocha (vs. QUnit) and ES8 (vs. ES6) for async/await
+
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
 
